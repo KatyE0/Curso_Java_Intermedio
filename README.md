@@ -12,7 +12,7 @@ Este repositorio es para mostrar los actividades (RETOS) realizados durante el s
 | 1 | Reto 02: Gestión de materiales de curso en una plataforma educativa | [Reto_02](https://github.com/KatyE0/Curso_Java_Intermedio/tree/main/Segundo_Modulo/Sesion_01/Reto_02) |
 ||||
 | 2 | Reto 01: Simulación concurrente de sistemas en una misión espacial | [Reto_01](https://github.com/KatyE0/Curso_Java_Intermedio/tree/main/Segundo_Modulo/Sesion_02/Reto_01) |
-| 2 | Reto 02: Acceso controlado a un recurso médico crítico con ReentrantLock | [Reto_02]() |
+| 2 | Reto 02: Acceso controlado a un recurso médico crítico con ReentrantLock | [Reto_02](https://github.com/KatyE0/Curso_Java_Intermedio/tree/main/Segundo_Modulo/Sesion_02/Reto_02) |
 ||||
 | 3 | Reto 01: Confirmación segura de pedidos en una pizzería | [Reto_01]() |
 | 3 | Reto 02: Cadena funcional para procesamiento de encuestas en una clínica | [Reto_02]() |
