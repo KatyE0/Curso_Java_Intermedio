@@ -9,7 +9,7 @@ Este proyecto simula el monitoreo en tiempo real de los sistemas críticos de Me
 ## 🤍 Salida obtenida
 
 ```bash
-java Main
+java GestionSistemas
 
 🌫️ Alerta: Contaminación alta (PM2.5: 72 ug/m3)
 🚝 Tren maglev con retraso crítico: 7 minutos.
