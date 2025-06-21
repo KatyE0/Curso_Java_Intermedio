@@ -6,6 +6,12 @@ Este proyecto simula el monitoreo en tiempo real de los sistemas críticos de Me
 ## 🤍 Objetivos
 - Simular el flujo reactivo y no bloqueante para la gestión en tiempo real de los sistemas críticos de Meridian Prime (una ciudad inteligente inspirada en Horizon Zero Dawn), usando Project Reactor y Flux para procesar múltiples flujos concurrentes.
 
+## 🤍 Tecnologias usadas
+- Java 24
+- Spring Boot 3.x
+- Project Reactor (Reactor Core)
+- Maven
+
 ## 🤍 Salida obtenida
 
 ```bash
@@ -19,6 +25,40 @@ java GestionSistemas
 🚨 Alerta global: Múltiples eventos críticos detectados en Meridian Prime
 
 ```
+## 🤍 Ejecución del proyecto
+
+### 1. Clona el repositorio
+
+```bash
+git clone https://github.com/KatyE0/Curso_Java_Intermedio/Segundo_Modulo/Sesion_05/Reto_01
+cd Reto_01
+```
+
+### 2. Ejecuta el proyecto
+Desde IDE (recomendado)
+Ejecuta la clase:
+```bash
+GestionSistemasApplication.java
+```
+O desde terminal
+``` bash
+./mvnw spring-boot:run
+```
+## 🤍 Estructura del proyecto
+``` bash
+Reto_01/GestonSistemas/
+│
+├── GestionSistemasApplication.java   # Clase principal con la lógica de ejecución
+│
+└──  Sistemas/          # Paquete con la logica para cada sistema
+        ├──  Trafico.java
+        ├──  Contaminacion.java
+        ├──  Accidentes.java
+        ├── Trenes.java
+        └── Semaforos.java
+        
+```
+
 #### 🤍 Haz click para volver al [Indice](https://github.com/KatyE0/Curso_Java_Intermedio/blob/main/README.md)
 
 ---
