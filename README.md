@@ -23,8 +23,8 @@ Este repositorio es para mostrar los actividades (RETOS) realizados durante el s
 | 5 | Reto 01: Gestión reactiva de sistemas críticos en Meridian Prime | [Reto_01](https://github.com/KatyE0/Curso_Java_Intermedio/tree/main/Segundo_Modulo/Sesion_05/Reto_01) |
 | 5 | Reto 02: Monitoreo reactivo de signos vitales en una UCI| [Reto_02](https://github.com/KatyE0/Curso_Java_Intermedio/tree/main/Segundo_Modulo/Sesion_05/Reto_02) |
 ||||
-| 6 | Reto 01: | [Reto_01](https://github.com/KatyE0/Curso_Java_Intermedio/tree/main/Segundo_Modulo/Sesion_06/Reto_01) |
-| 6 | Reto 02: | [Reto_02](https://github.com/KatyE0/Curso_Java_Intermedio/tree/main/Segundo_Modulo/Sesion_06/Reto_02) |
+| 6 | Reto 01: Registro de productos para inventario | [Reto_01](https://github.com/KatyE0/Curso_Java_Intermedio/tree/main/Segundo_Modulo/Sesion_06/Reto_01) |
+| 6 | Reto 02: Productos por marca en una tienda en línea | [Reto_02](https://github.com/KatyE0/Curso_Java_Intermedio/tree/main/Segundo_Modulo/Sesion_06/Reto_02) |
 ||||
 
 ---
