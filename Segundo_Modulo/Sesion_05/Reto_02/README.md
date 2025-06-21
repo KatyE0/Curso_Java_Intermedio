@@ -6,6 +6,12 @@ Este proyecto simula un sistema de monitoreo en tiempo real para pacientes crít
 ## 🤍 Objetivos
 - Simular un sistema reactivo que monitorea signos vitales de pacientes críticos en tiempo real en una Unidad de Cuidados Intensivos (UCI), aplicando backpressure para controlar el flujo de datos y encadenar operaciones reactivas que filtren eventos anómalos.
 
+## 🤍 Tecnologias usadas
+- Java 24
+- Spring Boot 3.x
+- Project Reactor (Reactor Core)
+- Maven
+  
 ## 🤍 Salida obtenida
 
 ```bash
@@ -21,8 +27,37 @@ PA crítica: 94/58 mmHg
 
 🚨 ALERTA GLOBAL: Múltiples signos vitales críticos detectados
 
+```
+## 🤍 Ejecución del proyecto
+
+### 1. Clona el repositorio
+
+```bash
+git clone https://github.com/KatyE0/Curso_Java_Intermedio/Segundo_Modulo/Sesion_05/Reto_02
+cd Reto_02
+```
+
+### 2. Ejecuta el proyecto
+Desde IDE (recomendado)
+Ejecuta la clase:
+```bash
+MonitoreoApplication.java
+```
+O desde terminal
+``` bash
+./mvnw spring-boot:run
+```
+## 🤍 Estructura del proyecto
+``` bash
+Reto_02/Monitoreo/src/main/java/Reto_02/Monitoreo/
+│
+├──  MonitoreoApplication.java   # Clase principal con lógica de ejecución
+│
+└── Sistemas/
+    └── SignosVitales.java          # Clase con la lógica de generación y filtrado de signos vitales
 
 ```
+
 #### 🤍 Haz click para volver al [Indice](https://github.com/KatyE0/Curso_Java_Intermedio/blob/main/README.md)
 
 ---
