@@ -46,7 +46,7 @@ O desde terminal
 ```
 ## 🤍 Estructura del proyecto
 ``` bash
-Reto_01/GestonSistemas/
+Reto_01/GestionSistemas/
 │
 ├── GestionSistemasApplication.java   # Clase principal con la lógica de ejecución
 │
