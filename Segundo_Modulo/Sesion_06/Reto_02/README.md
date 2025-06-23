@@ -16,7 +16,6 @@ Este proyecto extiende el modelo de inventario integrando relaciones entre entid
 
 
 ## 🤍 Salida obtenida
-- Permite al usuario ingresar productos por teclado
 ```bash
 java InventarioApplication
 
